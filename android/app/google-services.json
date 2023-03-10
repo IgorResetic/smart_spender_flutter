@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993605047970",
+    "project_id": "smart-spender-cd7e4",
+    "storage_bucket": "smart-spender-cd7e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993605047970:android:6002bd922ba4044cb8a9fb",
+        "android_client_info": {
+          "package_name": "com.example.smart_spender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993605047970-iih3juul2gqkgh7rske69h867l15mda1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-EvYAGVw6eMyMKHx3memcQHK1lnOK0wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993605047970-iih3juul2gqkgh7rske69h867l15mda1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
